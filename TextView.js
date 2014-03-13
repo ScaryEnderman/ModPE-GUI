@@ -4,8 +4,20 @@ var text;
 
 function useItem() {
 
+ctx.runOnUiThread(new java.lang.Runnable(){
+  
+run: function(){
+  
+try {
+  
 text.setText("Tapped a block!");
 text.setTextColor(android.graphics.Color.GREEN);
+
+} catch (e){
+print ("Error: "+e)
+}
+ 
+}});
 
 }
 
