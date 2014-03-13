@@ -12,4 +12,4 @@ What I will hopefully be adding soon:
   - Seekbar
   - and more...
 
-![ScreenShot](https://dl-web.dropbox.com/get/2014_03_13_22.16.38_jrvsgs42014-03-13_22-17-25.png)
+![ScreenShot](https://www.dropbox.com/s/dpckrgv5kccwpvd/2014_03_13_22.16.38_jrvsgs42014-03-13_22-17-25.png)
