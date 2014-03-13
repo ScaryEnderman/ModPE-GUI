@@ -3,8 +3,6 @@ var ctx = com.mojang.minecraftpe.MainActivity.currentMainActivity.get();
 var text;
 
 function newLevel(){
- 
-clientMessage(msg);
   
 ctx.runOnUiThread(new java.lang.Runnable(){
   
