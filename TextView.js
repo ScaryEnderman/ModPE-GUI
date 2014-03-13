@@ -49,3 +49,11 @@ GUI.dismiss();
 });
   
 }
+
+
+function useItem() {
+
+text.setText("Tapped a block!");
+text.setTextColor(android.graphics.Color.GREEN);
+
+}
