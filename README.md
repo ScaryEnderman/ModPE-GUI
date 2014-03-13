@@ -8,7 +8,7 @@ What I will hopefully be adding soon:
   - Button
   - ImageView (+ fade animation)
   - CheckBox
-  - SeekBar
   - Switch
+  - Seekbar
   
   - and more...
