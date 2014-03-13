@@ -2,6 +2,13 @@ var GUI;
 var ctx = com.mojang.minecraftpe.MainActivity.currentMainActivity.get();
 var text;
 
+function useItem() {
+
+text.setText("Tapped a block!");
+text.setTextColor(android.graphics.Color.GREEN);
+
+}
+
 function newLevel(){
   
 ctx.runOnUiThread(new java.lang.Runnable(){
@@ -48,12 +55,4 @@ GUI.dismiss();
   
 });
   
-}
-
-
-function useItem() {
-
-text.setText("Tapped a block!");
-text.setTextColor(android.graphics.Color.GREEN);
-
 }
